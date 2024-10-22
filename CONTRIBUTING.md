@@ -23,7 +23,7 @@ If you encounter a bug or have a feature request, please follow these steps:
 
 2. **Clone your fork**: Use the following command:
 ```bash
-git clone https://github.com/your-username/[project-name].git
+git clone https://github.com/[your-username]/[project-name].git
 ```
 
 3. **Create a new branch**: Before making changes, create a new branch:

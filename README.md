@@ -26,7 +26,7 @@ Instructions on how to install the project assuming Anaconda is installed:
 
 ### Clone the repository from GitHub
 ```bash
-git clone https://github.com/carytutmarc/granular-linear-regression.git
+git clone https://github.com/carytutmarc/granular-linear-regression-tool.git
 ```
 
 ### Create a new conda environment from environment.yml
@@ -137,4 +137,4 @@ https://stackoverflow.com/questions/68960656/how-to-only-fit-the-linear-portion-
 ## Notes
 Check my posts in the Issues section for features I want to add and bugs I have found.
 
-Project Link: [GitHub Repository - Granular Linear Regression Analysis](https://github.com/carytutmarc/granular-linear-regression)
+Project Link: [GitHub Repository - Granular Linear Regression Analysis Tool](https://github.com/carytutmarc/granular-linear-regression-tool)
